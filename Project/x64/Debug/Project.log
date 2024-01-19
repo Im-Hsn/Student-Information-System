@@ -1,0 +1,6 @@
+﻿  Project.cpp
+C:\Users\hassa\OneDrive\Desktop\2nd Year\1st semester\Data Structure\Project - Hassan Khadra\Project\Project.cpp(153,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hassa\OneDrive\Desktop\2nd Year\1st semester\Data Structure\Project - Hassan Khadra\Project\Project.cpp(153,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hassa\OneDrive\Desktop\2nd Year\1st semester\Data Structure\Project - Hassan Khadra\Project\Project.cpp(330): warning C4715: 'get_course_by_id': not all control paths return a value
+C:\Users\hassa\OneDrive\Desktop\2nd Year\1st semester\Data Structure\Project - Hassan Khadra\Project\Project.cpp(559): warning C4715: 'get_student_by_id': not all control paths return a value
+  Project.vcxproj -> C:\Users\hassa\OneDrive\Desktop\2nd Year\1st semester\Data Structure\Project - Hassan Khadra\Project\x64\Debug\Project.exe
