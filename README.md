@@ -2,6 +2,15 @@
 
 This C++ project focuses on creating a robust Student Information System (SIS) for a University, leveraging data structures for efficient management of student enrollment and course information. The SIS empowers registered students to log in, review their course schedule, add/drop courses, and swap courses seamlessly. The system also facilitates new students in signing up for accounts, while maintaining comprehensive lists of enrolled students and university courses.
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [File Management](#file-management)
+- [Notable Achievements](#notable-achievements)
+- [Database](#database)
+- [Note](#note)
+- [Showcase](#showcase)
+
 ## Project Overview
 
 - **Student Management:**
@@ -46,3 +55,21 @@ Upon meeting the basic project requirements, notable features have been incorpor
 
 - **Array Usage:**
    - Arrays are strictly avoided, except for character arrays for names and email addresses (Strings).
+
+## Showcase
+
+### Home Page
+![Home](screenshots/Home.png)
+
+### Student Page
+![Student](screenshots/Student.png)
+
+### Course View
+![Course](screenshots/Course.png)
+
+### Instructor Page
+![Instructor](screenshots/Instructor.png)
+
+---
+
+[**Return to Top**](#table-of-contents)
